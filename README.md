@@ -171,9 +171,8 @@ The application uses a comprehensive PostgreSQL schema with the following main e
 
 - **Website**: https://thongpham.tech
 - **Email**: contact@thongpham.tech
-- **Phone**: 1900 9090 (Toll-free)
-- **Address**: Floor 15, FPT Building, Duy Tan Street, Cau Giay District, Hanoi
-
+- **Address**: Ho Chi Minh city
+## Download: https://github.com/ExpertDevUX/ExpertDevUX.github.io
 ## 📋 License
 
 © 2024 ThongPham.Tech. All rights reserved.
